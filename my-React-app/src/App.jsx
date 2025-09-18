@@ -1,35 +1,54 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <h1>React Core Concepts</h1>
+      <Student></Student>
+      <Student></Student>
+      <Person></Person>
+      <Developer name="Mozumder" tech= "JS"></Developer>
+      <Developer name="Rajon" tech = "python"></Developer>
+      <Developer name="Shabana" tech = "Java"></Developer>
     </>
-  )
+  );
 }
 
-export default App
+function Developer(props) {
+  console.log(props);
+  return (
+    <div
+      style={{
+        border: "2px solid green",
+        borderRadius: "20px",
+      }}
+    >
+      <h3>Developer: {props.name}</h3>
+      <p>Technology: {props.tech}</p>
+    </div>
+  );
+}
+
+function Person() {
+  const age = 17;
+  const name = "Jolil";
+  const personStyle = {
+    color: "red",
+    textAlign: "right",
+  };
+  return (
+    <p id="" title="tooltip" style={personStyle}>
+      I am a person: {name} {age}
+    </p>
+  );
+}
+
+function Student() {
+  return (
+    <div className="student">
+      <p>Name:</p>
+      <p>Dept: </p>
+    </div>
+  );
+}
+export default App;
