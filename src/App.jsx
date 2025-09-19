@@ -1,12 +1,18 @@
 // import React from "/react";
 
 import "./App.css";
+import ToDo from "./todo";
+
+const time = 50;
 
 function App() {
   return (
     <>
       <h1>React Core Concepts</h1>
-      <Student></Student>
+      <ToDo task = "Learn React" isDone = {true} time={time}></ToDo>
+      <ToDo task = "Revise JS" isDone = {false}></ToDo>
+      <ToDo task = "Take a Shower" isDone = {true} time="100"></ToDo>
+      {/* <Student></Student>
       <Student></Student>
       <Person></Person>
       <Developer name="Mozumder" tech="JS"></Developer>
@@ -15,7 +21,7 @@ function App() {
       <Player name="tamim" runs="5000"></Player>
       <Player name="mushi" runs="2000"></Player>
       <Salami event="Roja Eid" amount = "20"></Salami>
-      <Salami event="Graduation"></Salami>
+      <Salami event="Graduation"></Salami> */}
     </>
   );
 }
