@@ -1,3 +1,7 @@
+Live Site: 1. whimsical-kleicha-ca743d.netlify.app
+          2. unbiased-tin.surge.sh
+           
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
