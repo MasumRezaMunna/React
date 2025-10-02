@@ -21,7 +21,7 @@
     "img": "https://example.com/images/ecosip.jpg"
   },
   {
-    "id": 3,
+    "id": 7,
     "name": "EcoSip Bamboo Bottle",
     "price": 18.50,
     "brand": "EcoSip",
@@ -42,14 +42,14 @@
     "img": "https://example.com/images/classicglass.jpg"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Classic Glass Bottle",
     "price": 10.75,
     "brand": "ClassicHome",
     "img": "https://example.com/images/classicglass.jpg"
   },
   {
-    "id": 5,
+    "id": 8,
     "name": "Classic Glass Bottle",
     "price": 10.75,
     "brand": "ClassicHome",
