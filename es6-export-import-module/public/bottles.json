@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "AquaPure Water Bottle",
+    "price": 12.99,
+    "brand": "AquaPure",
+    "capacity_ml": 500,
+    "material": "Plastic",
+    "color": "Blue",
+    "isReusable": true
+  },
+  {
+    "id": 2,
+    "name": "ThermoSteel Flask",
+    "price": 29.99,
+    "brand": "ThermoSteel",
+    "capacity_ml": 750,
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "isReusable": true
+  },
+  {
+    "id": 3,
+    "name": "EcoSip Bamboo Bottle",
+    "price": 18.5,
+    "brand": "EcoSip",
+    "capacity_ml": 600,
+    "material": "Bamboo & Glass",
+    "color": "Natural",
+    "isReusable": true
+  },
+  {
+    "id": 4,
+    "name": "HydroMax Sports Bottle",
+    "price": 15.0,
+    "brand": "HydroMax",
+    "capacity_ml": 1000,
+    "material": "Plastic",
+    "color": "Red",
+    "isReusable": true
+  },
+  {
+    "id": 5,
+    "name": "Classic Glass Bottle",
+    "price": 10.75,
+    "brand": "ClassicHome",
+    "capacity_ml": 500,
+    "material": "Glass",
+    "color": "Transparent",
+    "isReusable": true
+  }
+]
