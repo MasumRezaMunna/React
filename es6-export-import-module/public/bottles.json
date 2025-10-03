@@ -1,55 +1,55 @@
 [
   {
-    "id": 1,
+    "id": 56445846541,
     "name": "AquaPure Water Bottle",
     "price": 12.99,
     "brand": "AquaPure",
     "img": "https://example.com/images/aquapure.jpg"
   },
   {
-    "id": 2,
+    "id": 2573543462,
     "name": "ThermoSteel Flask",
     "price": 29.99,
     "brand": "ThermoSteel",
     "img": "https://example.com/images/thermosteel.jpg"
   },
   {
-    "id": 3,
+    "id": 51475673,
     "name": "EcoSip Bamboo Bottle",
-    "price": 18.50,
+    "price": 18.5,
     "brand": "EcoSip",
     "img": "https://example.com/images/ecosip.jpg"
   },
   {
-    "id": 7,
+    "id": 64164897,
     "name": "EcoSip Bamboo Bottle",
-    "price": 18.50,
+    "price": 18.5,
     "brand": "EcoSip",
     "img": "https://example.com/images/ecosip.jpg"
   },
   {
-    "id": 4,
+    "id": 65454654,
     "name": "HydroMax Sports Bottle",
-    "price": 15.00,
+    "price": 15.0,
     "brand": "HydroMax",
     "img": "https://example.com/images/hydromax.jpg"
   },
   {
-    "id": 5,
+    "id": 354687195,
     "name": "Classic Glass Bottle",
     "price": 10.75,
     "brand": "ClassicHome",
     "img": "https://example.com/images/classicglass.jpg"
   },
   {
-    "id": 6,
+    "id": 599999996,
     "name": "Classic Glass Bottle",
     "price": 10.75,
     "brand": "ClassicHome",
     "img": "https://example.com/images/classicglass.jpg"
   },
   {
-    "id": 8,
+    "id": 53735468,
     "name": "Classic Glass Bottle",
     "price": 10.75,
     "brand": "ClassicHome",
