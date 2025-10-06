@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 25,
+    "duration": "per month",
+    "description": "Simple access for beginners who just want to get started.",
+    "features": [
+      "Access to gym floor and cardio equipment",
+      "Free locker and shower use",
+      "1 personal training session per month",
+      "Access during staffed hours (6 AM – 10 PM)",
+      "Free Wi-Fi access",
+      "Discounts on gym merchandise"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 45,
+    "duration": "per month",
+    "description": "Perfect balance of flexibility, training, and support.",
+    "features": [
+      "24/7 gym access",
+      "Unlimited group fitness classes",
+      "Free nutrition and diet guidance",
+      "Access to premium locker rooms and showers",
+      "2 personal training sessions per month",
+      "Priority booking for classes",
+      "Access to outdoor training zone",
+      "Body composition tracking every month"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pro",
+    "price": 70,
+    "duration": "per month",
+    "description": "All-in plan for athletes and serious fitness lovers.",
+    "features": [
+      "24/7 access to all facilities",
+      "Unlimited group and premium classes",
+      "Access to sauna, steam, and recovery lounge",
+      "Weekly personal training sessions",
+      "Customized diet and workout plan",
+      "Priority trainer booking and scheduling",
+      "Access to members-only events and workshops",
+      "Monthly fitness assessment and progress report",
+      "Guest pass for a friend (once a month)",
+      "Exclusive gym merchandise and supplements discounts"
+    ]
+  }
+]
