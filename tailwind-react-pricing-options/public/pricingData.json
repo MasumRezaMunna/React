@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Basic",
-    "price": 25,
+    "price": "$25/month",
     "duration": "per month",
     "description": "Simple access for beginners who just want to get started.",
     "features": [
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "name": "Standard",
-    "price": 45,
+    "price": "$45/month",
     "duration": "per month",
     "description": "Perfect balance of flexibility, training, and support.",
     "features": [
@@ -34,7 +34,7 @@
   {
     "id": 3,
     "name": "Pro",
-    "price": 70,
+    "price": "$70/month",
     "duration": "per month",
     "description": "All-in plan for athletes and serious fitness lovers.",
     "features": [
